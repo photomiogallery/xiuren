@@ -5,3 +5,4 @@ Album Permalinks:
 3. [#03](http://www.xiuren.org/XiuRen-N01399.html)
 4. [#04](http://www.xiuren.org/XiuRen-N01395.html)
 5. [#05](http://www.xiuren.org/miitao-125.html)
+6. [#06](http://www.xiuren.org/XiuRen-N01339.html)
