@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "mosaic",
+  "theme": "flow",
   "css": "./custom.css",
   "footer": "Personal curated photo album. All images courtesy of their author.",
   "usage-stats": false
