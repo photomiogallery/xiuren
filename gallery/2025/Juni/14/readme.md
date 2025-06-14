@@ -6,3 +6,4 @@ Permalinks:
 4. [#04](http://www.xiuren.org/mygirl-120.html)
 5. [#05](http://www.xiuren.org/mygirl-117.html)
 6. [#06](http://www.xiuren.org/mygirl-092.html)
+7. [#07](http://www.xiuren.org/mygirl-077.html)
