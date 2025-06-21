@@ -10,3 +10,4 @@
 8. [Album #8](http://www.xiuren.org/miitao-104.html)
 9. [Album #9](http://www.xiuren.org/mistar-225.html)
 10. [Album #10](http://www.xiuren.org/miitao-106.html)
+11. [Album #11](http://www.xiuren.org/XiuRen-N01052.html)
