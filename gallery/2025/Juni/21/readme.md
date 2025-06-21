@@ -5,3 +5,4 @@
 3. [Album #3](http://www.xiuren.org/XiuRen-N00977.html)
 4. [Album #4](http://www.xiuren.org/XiuRen-N01016.html)
 5. [Album #5](http://www.xiuren.org/mistar-221.html)
+6. [Album #6](http://www.xiuren.org/mygirl-282.html)
