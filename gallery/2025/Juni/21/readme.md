@@ -7,3 +7,4 @@
 5. [Album #5](http://www.xiuren.org/mistar-221.html)
 6. [Album #6](http://www.xiuren.org/mygirl-282.html)
 7. [Album #7](http://www.xiuren.org/mistar-222.html)
+8. [Album #8](http://www.xiuren.org/miitao-104.html)
